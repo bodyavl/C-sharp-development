@@ -1,4 +1,6 @@
-﻿namespace Lab5_university
+﻿using System;
+
+namespace Lab5_university
 {
     internal class Program
     {
